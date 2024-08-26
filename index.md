@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- One thing I like about CS193 is that it teaches us about topics like GitHub and the terminal since these are important things that we dont learn about in CS180 for example.
+- Another thing I like about CS193 is the fact that many of my friends are also majoring in CS so we are in this class together.
 
 1. Numbered
 2. List
